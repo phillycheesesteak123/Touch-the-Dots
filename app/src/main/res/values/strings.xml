@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TouchTheDots</string>
+    <string name="survival_mode_title">Survival Mode</string>
+    <string name="burst_mode_title">Burst Mode</string>
+    <string name="touch_the_dots_title">Touch The Dots</string>
+    <string name="playBtn">Play</string>
+    <string name="scoreBtn">Score</string>
+    <string name="mode_lbl">Mode:</string>
+    <string name="score_time_lbl">Time:</string>
+    <string name="score_lbl">Score:</string>
+    <string name="timer_txt">00:00:00</string>
+    <string name="score_txt">0</string>
+    <string name="play_again_txt">Play Again</string>
+    <string name="go_back_txt">Go Back</string>
+
+    <string-array name="modes_array">
+        <item>Survival Mode</item>
+        <item>Burst Mode</item>
+    </string-array>
+</resources>
